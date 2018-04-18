@@ -2,7 +2,7 @@
 //  main.cpp
 //  CryptoProject
 //
-//  Created by Anvita Hodekar and Nick Nguyen on 3/9/18.
+//  Created by Anvita Hodekar 3/9/18.
 //  Copyright © 2018 Anvita Hodekar. All rights reserved.
 //
 
